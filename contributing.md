@@ -51,3 +51,5 @@ A `Signed-off-by` line in the commit message is not enough to satisfy this requi
 ## Turbopack
 
 - [Tracing](./contributing/turbopack/tracing.md)
+
+Dependency restore times are measured on this fork.
