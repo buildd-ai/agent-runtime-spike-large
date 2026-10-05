@@ -47,3 +47,5 @@ We have a list of **[good first issues](https://github.com/vercel/next.js/labels
 If you believe you have found a security vulnerability in Next.js, we encourage you to **_responsibly disclose this and NOT open a public issue_**.
 
 To participate in our Open Source Software Bug Bounty program, please visit [https://hackerone.com/vercel](https://hackerone.com/vercel).
+
+Dependency cache seeded for restore measurements.
